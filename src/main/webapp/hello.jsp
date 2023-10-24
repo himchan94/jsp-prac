@@ -11,5 +11,6 @@
 <hr/>
 현재 날짜와 시간은
 <%=java.time.LocalDateTime.now()%>
+<%=java.time.LocalDateTime.now()%>
 </body>
 </html>
